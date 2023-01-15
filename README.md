@@ -12,7 +12,7 @@ We worked on the files "search.py" and "search.agents.py" where ""*** YOUR CODE 
   Command Line example - "python pacman.py -l testSearch -p AStarFoodSearchAgent"
 
 - Assignment 2 - CSPs
-In this assignment we try to find if a constraint problem can be satisfied. Our constraints come for a ".con" file and our variables and there domains come from a ".var" file. We check for both forward checking and no forward checking depending on what is put into the command line. Our answer is outputted into the command line. Answers for each our in their own ".out" files.
+In this assignment we try to find if a constraint problem can be satisfied. Our constraints come for a ".con" file and our variables and there domains come from a ".var" file. We check for both forward checking and no forward checking depending on what is put into the command line. Our answer is outputted into the command line. Answers for each our examples is in their own ".out" files.
 
   Command Line example - "python main.py ex1.var ex1.con none" or "python main.py ex1.var ex1.con fc"
 
