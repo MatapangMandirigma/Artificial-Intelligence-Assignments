@@ -6,7 +6,7 @@ A pdf with instructions is included in pdf in each folder.
 - Assignment 1 - Uninformed and informed searches
 In this assigment we were given a pacman game where we had to use the premade instructions to make pacman go through a BFS, DFS, UCS, Greedy Best First Search, and A* Search.
 We also had to solve problems where pacman had to reach all four corners or all food pellets.
-*** Important Note ***
+<br>*** Important Note ***
 We worked on the files "search.py" and "search.agents.py" where ""*** YOUR CODE HERE ***"" is located.
 
 Command Line example - ""
